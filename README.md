@@ -22,4 +22,4 @@
 ( ในส่วนนี้ จะมีการส่งข้อมูลการจองไปที่ MySQL database )
 ![image](https://user-images.githubusercontent.com/90896943/226114124-5ecb8615-e690-4483-a777-b888aa634b95.png)
 ![image](https://user-images.githubusercontent.com/90896943/226114144-0a520790-49f1-4ae0-abbe-deb154784287.png)
-
+ในส่วนของข้อมูล Database สามารถกด Import ในเว็บของ PHPMyadmin โดยใช้ไฟล์ MySQL database.SQL
