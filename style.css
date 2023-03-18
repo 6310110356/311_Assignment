@@ -1,0 +1,59 @@
+body {
+    background-image: url('https://www.phephatiew.com/wp-content/uploads/2020/01/3%E0%B8%81%E0%B8%B4%E0%B9%88%E0%B8%A7%E0%B8%81%E0%B8%B0%E0%B8%A5%E0%B8%81-1536x1024.jpg');
+    background-color: #0e0e0e;
+    background-size: 1300px 700px;
+    font-family: Arial, sans-serif;
+    color: #d3a900;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 50px;
+  }
+  
+  label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"],
+  input[type="password"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  input[type="submit"] {
+    background-color: #4c00fc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  
+  input[type="submit"]:hover {
+    background-color: #f40000;
+  }
+  
+  form {
+    margin: 0 auto;
+    width: 400px;
+  }
+  
+  p {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+
+  
